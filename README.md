@@ -7,5 +7,7 @@ A mockup landing page for a real-estate company. This coding exercise capitalize
 3) Truly understand how CSS works behind the scenes;
 4) Be able to architect large CSS codebases for reusability and maintainability using Sass.
 
+![screen](/img/screen.png)
+
 ## Features & Code Snippets
 `// TODO: Write this`
